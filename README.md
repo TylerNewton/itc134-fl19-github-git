@@ -2,3 +2,4 @@
 Work between Git and Github
 
 a small change for demo
+now with a test
